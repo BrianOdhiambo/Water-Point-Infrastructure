@@ -2,10 +2,10 @@
 
 Water point infrastructure provides information about infrastrucuture resources,
 for each water point.
-It returns:
-    * The number of water points that are functional.
-    * The number of water points per community.
-    * The rank for each community by the percentage of broken water points.
+It returns: <br>
+    *The number of water points that are functional. <br>
+    *The number of water points per community. <br>
+    *The rank for each community by the percentage of broken water points. <br>
 
 ## Guideline of running the file
 
